@@ -265,7 +265,7 @@ I want it to make 2 different pictures appear at the same time but with random s
 
 ### Process 3
 Instead of adding another image(r, xPos, yPos, , newWidth, and newHeight;
-I made them have their own variables to separate them.
+I made them have their own variables to separate them. Also watched this tutorial for the random image [link](https://www.youtube.com/watch?v=hxjEl-pun7o&t=164s)
 
 <img width="400" alt="Screenshot 2025-01-26 at 4 49 52 PM" src="https://github.com/user-attachments/assets/27aca71e-582b-457e-acaa-7af9dce0c1b8" />
 
