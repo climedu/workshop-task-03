@@ -240,7 +240,9 @@ Random rectangles appear creating the images.  Kinda abstract, making representa
 
 
 ## Task Journey
-Starting by collecting images from my gallery, which I'd taken by myself before and edited in Adobe Lightroom.
+Started by collecting images from my gallery, which I'd taken by myself before and edited in Adobe Lightroom.
+
+<img width="400" alt="Screenshot 2025-01-26 at 8 59 06 PM" src="https://github.com/user-attachments/assets/df5ea47a-2778-4eaf-bd15-cd0b05074b72" />
 
 
 
