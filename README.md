@@ -1,5 +1,5 @@
 # workshop-task-3
-Here is a URL to the webpage for this project: [link]( https://climedu.github.io/workshop-task-3/)
+Here is a URL to the webpage for this project: [link]( https://climedu.github.io/workshop-task-03/)
 
 ## Task
 - Collect a series of images. Make a p5.js sketch that generates a new collage each time the sketch is run.
